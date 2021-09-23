@@ -10,6 +10,8 @@ OpenCV (Open Source Computer Vision Library) is a library of programming functio
 
 Use GaussianBlur with a kernel of (91,91) to blur faces. It can be used for Privacy & Identity Protection in public/private areas. Can increase or decrease blur strength by changing the kernel.
 
+<img src="Assets/download.jpg"><img src="Assets/Front1.jpg">
+
 ## Color Detection
 
 Color detection is the process of detecting the name of any color. Color detection is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps. Some Real-world Applications:-
