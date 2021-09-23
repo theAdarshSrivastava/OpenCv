@@ -4,6 +4,8 @@ Computer vision is a field of artificial intelligence that trains computers to i
 
 OpenCV (Open Source Computer Vision Library) is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage then Itseez. The library is cross-platform and free for use under the open-source BSD license.
 
+<img src="Assets/image.png">
+
 ## Blur the Face
 
 Use GaussianBlur with a kernel of (91,91) to blur faces. It can be used for Privacy & Identity Protection in public/private areas. Can increase or decrease blur strength by changing the kernel.
