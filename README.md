@@ -19,3 +19,13 @@ Multiple color detection is used in some industrial robots, to performing pick-a
 
 Face recognition is a method of identifying or verifying the identity of an individual using their face. Face recognition systems can be used to identify people in photos, video, or in real-time. Law enforcement may also use mobile devices to identify people during police stops.
 
+## Image-to-sketch
+
+A small code that can convert an image to a pencil sketch like image. An image is basically an array of numbers to Python. So we can perform a variety of matrix manipulations to get some very interesting results. This code shows how to reduce an image into a ‘pencil’ outline.
+
+## Cartoonize Image
+
+Cartooning of an image is done by using opencv and python. There is a use of Bilateral Filter on the image to smoothen the image. Use of Median filter to reduce noise from the image. Use of Adaptive Thresholding for image segmentation.
+
+
+
