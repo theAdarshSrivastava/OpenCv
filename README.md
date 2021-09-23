@@ -19,7 +19,7 @@ In self-driving car, to detect the traffic signals.
 Multiple color detection is used in some industrial robots, to performing pick-and-place task in separating different colored objects.
 
 <img src="Assets/scene.jpg"><img src="Assets/Screenshot (1306).png">
-<img src="Assets/Screenshot (1305).png"><img src="Screenshot (1304).png">
+<img src="Assets/Screenshot (1305).png"><img src="Assets/Screenshot (1304).png">
 
 ## Face Recognition
 
