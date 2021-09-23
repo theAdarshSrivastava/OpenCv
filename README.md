@@ -10,7 +10,7 @@ OpenCV (Open Source Computer Vision Library) is a library of programming functio
 
 Use GaussianBlur with a kernel of (91,91) to blur faces. It can be used for Privacy & Identity Protection in public/private areas. Can increase or decrease blur strength by changing the kernel.
 
-<img src="Assets/download.jpg"><img src="Assets/blur.jpg">
+<img src="Assets/men.jpg"><img src="Assets/blur.jpg">
 
 ## Color Detection
 
