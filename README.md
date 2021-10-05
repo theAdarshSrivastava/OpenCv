@@ -12,6 +12,28 @@ Use GaussianBlur with a kernel of (91,91) to blur faces. It can be used for Priv
 
 <img src="Assets/men.jpg"><img src="Assets/blur.jpg">
 
+### Usage
+
+- Cloning the Repository: 
+
+        git clone https://github.com/theAdarshSrivastava/OpenCv
+        
+- Entering the directory: 
+
+        cd OpenCv
+        
+- Setting up the Python Environment with dependencies:
+
+        pip install -r requirements.txt
+        
+- Entering the directory: 
+
+        cd Blur_Face
+
+- Running the file:
+
+        python3 Blur face.py
+
 ## Color Detection
 
 Color detection is the process of detecting the name of any color. Color detection is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps. Some Real-world Applications:-
@@ -22,11 +44,47 @@ Multiple color detection is used in some industrial robots, to performing pick-a
 <img src="Assets/scene.jpg"><img src="Assets/Screenshot (1306).png">
 <img src="Assets/Screenshot (1305).png"><img src="Assets/Screenshot (1304).png">
 
+### Usage
+
+- Cloning the Repository: 
+
+        git clone https://github.com/theAdarshSrivastava/OpenCv
+        
+- Entering the directory: 
+
+        cd OpenCv
+        
+- Entering the directory: 
+
+        cd Color_Detection
+
+- Running the file:
+
+        python3 color_detection.py
+
 ## Face Recognition
 
 Face recognition is a method of identifying or verifying the identity of an individual using their face. Face recognition systems can be used to identify people in photos, video, or in real-time. Law enforcement may also use mobile devices to identify people during police stops.
 
 <img src="Assets/download.jpg"><img src="Assets/Front1.jpg">
+
+### Usage
+
+- Cloning the Repository: 
+
+        git clone https://github.com/theAdarshSrivastava/OpenCv
+        
+- Entering the directory: 
+
+        cd OpenCv
+        
+- Entering the directory: 
+
+        cd Face_Detection
+
+- Running the file:
+
+        python3 Face Detection.py
 
 ## Image-to-sketch
 
@@ -34,9 +92,46 @@ A small code that can convert an image to a pencil sketch like image. An image i
 
 <img src="Assets/download1.jpeg"><img src="Assets/sketch.jpg">
 
+### Usage
+
+- Cloning the Repository: 
+
+        git clone https://github.com/theAdarshSrivastava/OpenCv
+        
+- Entering the directory: 
+
+        cd OpenCv
+        
+- Entering the directory: 
+
+        cd Image_to_Sketch
+
+- Running the file:
+
+        python3 Pencil sketch.py
+
 ## Cartoonize Image
 
 Cartooning of an image is done by using opencv and python. There is a use of Bilateral Filter on the image to smoothen the image. Use of Median filter to reduce noise from the image. Use of Adaptive Thresholding for image segmentation.
 
+
+### Usage
+Please download the trained <a href = "https://drive.google.com/drive/folders/1MaU49YgSFBqGbMVImh6k6f__q-_mowck?usp=sharing">model</a> and move it to a directory names *models*. Please ensure that the path to model is *"models/model.h5"*.
+
+- Cloning the Repository: 
+
+        git clone https://github.com/theAdarshSrivastava/OpenCv
+        
+- Entering the directory: 
+
+        cd OpenCv
+        
+- Entering the directory: 
+
+        cd Cartoonize_Image
+
+- Running the file:
+
+        python3 Cartoonise Images.py
 
 
