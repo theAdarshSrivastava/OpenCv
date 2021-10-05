@@ -116,7 +116,6 @@ Cartooning of an image is done by using opencv and python. There is a use of Bil
 
 
 ### Usage
-Please download the trained <a href = "https://drive.google.com/drive/folders/1MaU49YgSFBqGbMVImh6k6f__q-_mowck?usp=sharing">model</a> and move it to a directory names *models*. Please ensure that the path to model is *"models/model.h5"*.
 
 - Cloning the Repository: 
 
